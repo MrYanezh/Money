@@ -6,7 +6,7 @@ from PyQt6.QtWidgets import (
 )
 from PyQt6.QtGui import QIntValidator, QDoubleValidator, QGuiApplication
 from PyQt6.QtCore import Qt
-
+ # тест для проверки коммитов
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
